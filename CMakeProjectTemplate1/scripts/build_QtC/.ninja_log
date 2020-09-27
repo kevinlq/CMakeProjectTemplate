@@ -1,0 +1,16 @@
+# ninja log v5
+8	543	6229225402154404	src/CMakeFiles/HelloApp.dir/main/main.cpp.obj	49decf34dee91c3e
+0	20	0	clean	7e36be51a775ada8
+0	19	0	clean	7e36be51a775ada8
+6	508	6229225916671974	src/CMakeFiles/HelloApp.dir/main/main.cpp.obj	49decf34dee91c3e
+1	365	6229226435391709	build.ninja	e18032542709b228
+0	20	0	clean	7e36be51a775ada8
+5	503	6229226454466494	src/CMakeFiles/HelloApp.dir/main/main.cpp.obj	49decf34dee91c3e
+503	743	6229226456798789	../../Bin/Debug/HelloApp.exe	29908a577101a00a
+1	356	6229226824600201	build.ninja	e18032542709b228
+0	23	0	clean	7e36be51a775ada8
+6	579	6229226844950282	src/CMakeFiles/HelloApp.dir/main/main.cpp.obj	49decf34dee91c3e
+1	365	6229227181514901	build.ninja	e18032542709b228
+0	19	0	clean	7e36be51a775ada8
+7	539	6229227201868534	src/CMakeFiles/HelloApp.dir/main/main.cpp.obj	49decf34dee91c3e
+540	776	6229227204137151	../../Bin/Debug/HelloApp.exe	29908a577101a00a

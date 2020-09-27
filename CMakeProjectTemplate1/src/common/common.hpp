@@ -1,0 +1,6 @@
+#ifndef _HELLO_COMMON_COMMON_HPP_
+#define _HELLO_COMMON_COMMON_HPP_
+
+
+#endif
+
